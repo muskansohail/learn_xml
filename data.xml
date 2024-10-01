@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<StudentsRecord>
+    <student xmlns:good="www.good.com">
+        <good:id>01</good:id>
+        <good:name>Olive</good:name>
+        <good:grade>8th</good:grade>
+        <good:address>xyz steet</good:address>
+        <good:city>NY city</good:city>
+        <good:email>olive@gmail.com</good:email>
+        <good:phone>123456</good:phone>
+    </student>
+    <student>
+        <id>02</id>
+        <name>Noah</name>
+        <grade>8th</grade>
+        <address>xyz steet</address>
+        <city>NY city</city>
+        <email>noah@gmail.com</email>
+        <phone>123456</phone>
+    </student>
+    <student xmlns:best="www.best.com">
+        <best:id>03</best:id>
+        <best:name>Henry</best:name>
+        <best:grade>7th</best:grade>
+        <best:address>xyz steet</best:address>
+        <best:city>NY city</best:city>
+        <best:email>henry@gmail.com</best:email>
+        <best:phone>123456</best:phone>
+    </student>
+    <student xmlns:great="www.great.com">
+        <great:id>04</great:id>
+        <great:name>Emma</great:name>
+        <great:grade>8th</great:grade>
+        <great:address>xyz steet</great:address>
+        <great:city>NY city</great:city>
+        <great:email>emma@gmail.com</great:email>
+        <great:phone>123456</great:phone>
+    </student>
+    <student>
+        <id>05</id>
+        <name>Matthew</name>
+        <grade>8th</grade>
+        <address>xyz steet</address>
+        <city>NY city</city>
+        <email>matthew@gmail.com</email>
+        <phone>123456</phone>
+    </student>
+    <student>
+        <id>06</id>
+        <name>John</name>
+        <grade>7th</grade>
+        <address>xyz steet</address>
+        <city>NY city</city>
+        <email>john@gmail.com</email>
+        <phone>123456</phone>
+    </student>
+    <student>
+        <id>07</id>
+        <name>Millie</name>
+        <grade>8th</grade>
+        <address>xyz steet</address>
+        <city>NY city</city>
+        <email>millie@gmail.com</email>
+        <phone>123456</phone>
+    </student>
+    <student xmlns:nice="www.nice.com">
+        <nice:id>08</nice:id>
+        <nice:name>Nora</nice:name>
+        <nice:grade>7th</nice:grade>
+        <nice:address>xyz steet</nice:address>
+        <nice:city>NY city</nice:city>
+        <nice:email>nora@gmail.com</nice:email>
+        <nice:phone>123456</nice:phone>
+    </student>
+    <student>
+        <id>09</id>
+        <name>Rose</name>
+        <grade>8th</grade>
+        <address>xyz steet</address>
+        <city>NY city</city>
+        <email>rose@gmail.com</email>
+        <phone>123456</phone>
+    </student>
+    <student xmlns:super="www.super.com">
+        <super:id>10</super:id>
+        <super:name>Stella</super:name>
+        <super:grade>7th</super:grade>
+        <super:address>xyz steet</super:address>
+        <super:city>NY city</super:city>
+        <super:email>stella@gmail.com</super:email>
+        <super:phone>123456</super:phone>
+    </student>
+    <student>
+        <id>11</id>
+        <name>Leo</name>
+        <grade>8th</grade>
+        <address>xyz steet</address>
+        <city>NY city</city>
+        <email>leo@gmail.com</email>
+        <phone>123456</phone>
+    </student>
+    <student>
+        <id>12</id>
+        <name>Dove</name>
+        <grade>8th</grade>
+        <address>xyz steet</address>
+        <city>NY city</city>
+        <email>dove@gmail.com</email>
+        <phone>123456</phone>
+    </student>
+    <student>
+        <id>13</id>
+        <name>Neil</name>
+        <grade>8th</grade>
+        <address>xyz steet</address>
+        <city>NY city</city>
+        <email>neil@gmail.com</email>
+        <phone>123456</phone>
+    </student>
+    <student xmlns:well="www.well.com">
+        <well:id>14</well:id>
+        <well:name>Parker</well:name>
+        <well:grade>7th</well:grade>
+        <well:address>xyz steet</well:address>
+        <well:city>NY city</well:city>
+        <well:email>parker@gmail.com</well:email>
+        <well:phone>123456</well:phone>
+    </student>
+
+</StudentsRecord>

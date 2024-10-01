@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="style.xsl" type="text/xsl" ?>
+
+<studentlist>
+    <student>
+        <id>01</id>
+        <name>Muskan</name>
+        <email>muskan@gmail.com</email>
+        <address>xyz city,12345</address>
+    </student>
+    <student>
+        <id>02</id>
+        <name>Sameer</name>
+        <email>sameer@gmail.com</email>
+        <address>xyz city,12345</address>
+    </student>
+    <student>
+        <id>03</id>
+        <name>Ayesha</name>
+        <email>ayesha@gmail.com</email>
+        <address>xyz city,12345</address>
+    </student>
+    <student>
+        <id>04</id>
+        <name>Hammad</name>
+        <email>hammad@gmail.com</email>
+        <address>xyz city,12345</address>
+    </student>
+    <student>
+        <id>05</id>
+        <name>Zara</name>
+        <email>zara@gmail.com</email>
+        <address>xyz city,12345</address>
+    </student>
+
+
+
+
+
+
+</studentlist>
